@@ -1,0 +1,6 @@
+#Ignore these directories
+
+#ignore these files
+.DS_Store
+
+.Rproj.user
