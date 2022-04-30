@@ -5,7 +5,18 @@ Following the collapse of the housing market in the Great Recession, a small con
 
 Instead of flipping these properties, investors held onto them, making money from rental payments and fees and growing equity as the value of the properties recovered. They also created rental-backed securities, a new financial instrument that sold bond holders the promise of future rental income.
 
-But tracking the companies and their purchases is tricky.
+Read our three-day series into how the growth of the single-family rental industry is affecting tenants, neighborhoods and communities in **Security for Sale** in one of our three partner publications:
+
+ - [The News & Observer](http://www.newsobserver.com/securityforsale)
+ - [The Charlotte Observer](http://www.charlotteobserver.com/securityforsale)
+ - [The Herald Sun](http://www.heraldsun.com/securityforsale)
+
+Have questions? Spot an error in our data? Contact Tyler Dukes at [mtdukes@newsobserver.com](mailto:mtdukes@newsobserver.com).
+
+*Note: This repo will be updated periodically with new data and resources.*
+
+## How we did this story
+Tracking the single-family rental companies and their purchases is tricky.
 
 Although there are just a handful of national corporations buying on a large scale in Charlotte and Triangle, they use a myriad of subsidiaries and holding companies to conduct their business. There's also variation – misspellings, mixed punctuation and the link – in how these subsidiaries are recorded in property records managed by each of the state's 100 counties.
 
@@ -31,6 +42,11 @@ Szakonyi, who reviewed the N&O and Observer’s analysis, called the analysis th
 
 The N&O and the Observer are making both the investor subsidiary list and the database of corporate investor-owned properties available publicly for all uses.
 
-Spot an error in our data? Contact Tyler Dukes at [mtdukes@newsobserver.com](mailto:mtdukes@newsobserver.com).
+*The Pulitzer Center contributed to this project by awarding The Charlotte Observer and The News & Observer [a data journalism grant](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants).*
 
-The Pulitzer Center contributed to this project by awarding The Charlotte Observer and The News & Observer [a data journalism grant](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants).
+## Data
+
+## Data dictionary/field layout
+
+## Interactives
+Interactive motion graphics in the Security for Sale series were created by David Newcomb. [Read more about how he preprocessed the data to and created the maps here](https://github.com/mcclatchy/data-security-for-sale/tree/main).
