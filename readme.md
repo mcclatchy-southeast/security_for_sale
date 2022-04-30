@@ -1,4 +1,4 @@
-
+![Security for Sale promo](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/images/promo_image.jpg)
 
 # Security for Sale
 
@@ -49,6 +49,13 @@ The following files [can be downloaded](https://github.com/mcclatchy-southeast/s
 Use of this data is granted to researchers, policymakers and the public under [an MIT License](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/LICENSE).
 
 Please cite/credit/attribute all uses to: `The News & Observer/The Charlotte Observer` or `an analysis by The News & Observer and The Charlotte Observer`. And if our data makes it into your work, let us know!
+
+To download:
+ - Clone our repository
+ - Download the entire directory as a zip file
+ - Download individual files by right-clicking on the `Raw` or `Download` button and clicking "Save as..."
+
+![Download options](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/images/download_options.png)
 
 Have questions? Spot an error in our data? Contact Tyler Dukes at [mtdukes@newsobserver.com](mailto:mtdukes@newsobserver.com).
 
@@ -102,3 +109,15 @@ Many of the fields here are drawn directly from the N.C. OneMap parcel file. For
 
 ## Interactives
 Interactive motion graphics in the Security for Sale series were created by David Newcomb. [Read more about how he preprocessed the data to and created the maps here](https://github.com/mcclatchy/data-security-for-sale/tree/main).
+
+## Acknowledgments
+
+Security for Sale was reported and written by investigative reporters Payton Guion of The Charlotte Observer and Tyler Dukes of The News & Observer, with significant contributions from Observer growth reporter Gordon Rago. Additional reporting by News & Observer real estate reporter Mary Helen Moore.
+
+Art direction and animation by Sohail Al-Jamea | Illustrations by Rachel Handley | Design, development & interactive maps by David Newcomb
+
+Photos, drone footage and videos by McClatchy visual journalists Jeff Siner, Khadejeh Nikouye, Melissa Rodriquez, Travis Long, Julia Wall, Alex Slitz, Loumay Alesali, The' Pham and Scott Sharpe.
+
+Edited by Cathy Clabby, McClatchy Southeast investigations editor, and Adam Bell, Observer business and arts editor. 
+
+A special thanks to the Pulitzer Center, which supported this project with a data journalism grant.
