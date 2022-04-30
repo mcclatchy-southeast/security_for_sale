@@ -1,4 +1,5 @@
 
+
 # Security for Sale
 
 Following the collapse of the housing market in the Great Recession, a small contingent of hedge funds and private equity firms bought up scores of single-family homes as part of a new real estate investment strategy.
@@ -10,8 +11,6 @@ Read our three-day series beginning May 1, 2022, into how the growth of the sing
  - [The News & Observer](http://www.newsobserver.com/securityforsale)
  - [The Charlotte Observer](http://www.charlotteobserver.com/securityforsale)
  - [The Herald Sun](http://www.heraldsun.com/securityforsale)
-
-Have questions? Spot an error in our data? Contact Tyler Dukes at [mtdukes@newsobserver.com](mailto:mtdukes@newsobserver.com).
 
 *Note: This repo will be updated periodically with new data and resources.*
 
@@ -46,6 +45,12 @@ The N&O and the Observer are making both the investor subsidiary list and the da
 
 ## Data
 The following files [can be downloaded](https://github.com/mcclatchy-southeast/security_for_sale/tree/main/data) from the `data` directory in this repo. File names are appended with a timestamp indicating when they were generated, in the format `YYYYMMDDHHMM`.
+
+Use of this data is granted to researchers, policymakers and the public under [an MIT License](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/LICENSE).
+
+Please cite/credit/attribute all uses to: `The News & Observer/The Charlotte Observer` or `an analysis by The News & Observer and The Charlotte Observer`. And if our data makes it into your work, let us know!
+
+Have questions? Spot an error in our data? Contact Tyler Dukes at [mtdukes@newsobserver.com](mailto:mtdukes@newsobserver.com).
 
 ### corporate_landlord_lookup
  A comma-separated value file containing the lookup table that ties subsidiaries (the buying entities listed on property records) with the associated parent company, based on property mailing address, corporate registration records and other sources. Wherever possible, this table also includes North Carolina corporate registration information. Subsidiaries are excluded from this list of their parent companies own fewer than 100 properties across the state.
