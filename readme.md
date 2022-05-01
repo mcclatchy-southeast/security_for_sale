@@ -1,3 +1,4 @@
+
 ![Security for Sale promo](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/images/promo_image.jpg)
 
 # Security for Sale
@@ -36,6 +37,32 @@ Properties were removed from the count if their zoning, land use or building des
 The OneMap data was last accessed on April 20, although the property records may lag by several months depending on the county.
 
 The reporting identified nearly 40,000 individual properties owned by subsidiaries of about 20 parent companies.
+
+| Company name |
+|:--|
+| AMERICAN HOMES 4 RENT |
+| INVITATION HOMES |
+| PROGRESS RESIDENTIAL |
+| AMHERST RESIDENTIAL (MAIN STREET RENEWAL) |
+| FIRSTKEY |
+| TRICON RESIDENTIAL |
+| RS RENTAL |
+| FRONT YARD RESIDENTIAL / PROGRESS RESIDENTIAL |
+| MY COMMUNITY HOMES |
+| AALTO INVEST UK |
+| HOME PARTNERS OF AMERICA |
+| STARWOOD PROPERTY TRUST |
+| YAMASA (PROGRESS RESIDENTIAL) |
+| BROOKFIELD ASSET MANAGEMENT (CONREX) |
+| VINEBROOK HOMES |
+| SYLVAN ROAD CAPITAL |
+| HUDSON CAPITAL PROPERTIES |
+| WALTON STREET CAPITAL (BRIDGE TOWER) |
+| NEW RESIDENTIAL INVESTMENT |
+| SPARROW |
+| SFR3 FUND |
+| KAIROS LIVING |
+| *Note: Names in parenthesis are property managers, rather than owners. The major investors behind Progress [announced the acquisition](https://www.prnewswire.com/news-releases/pretium-and-ares-management-announce-2-4-billion-take-private-transaction-with-front-yard-residential-301154705.html) of Front Yard Residential in 2020, often making the ownership structure of properties at one point associated with Front Yard unclear.* |
 
 Szakonyi, who reviewed the N&O and Observer’s analysis, called the analysis the "best exercise I've ever seen trying to identify properties owned by large institutional investments."
 
