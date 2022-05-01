@@ -116,7 +116,7 @@ Security for Sale was reported and written by investigative reporters Payton Gui
 
 Art direction and animation by Sohail Al-Jamea | Illustrations by Rachel Handley | Design, development & interactive maps by David Newcomb
 
-Photos, drone footage and videos by McClatchy visual journalists Jeff Siner, Khadejeh Nikouye, Melissa Rodriquez, Travis Long, Julia Wall, Alex Slitz, Loumay Alesali, The' Pham and Scott Sharpe.
+Photos, drone footage and videos by McClatchy visual journalists Jeff Siner, Khadejeh Nikouye, Melissa Rodriguez, Travis Long, Julia Wall, Alex Slitz, Loumay Alesali, The' Pham and Scott Sharpe.
 
 Edited by Cathy Clabby, McClatchy Southeast investigations editor, and Adam Bell, Observer business and arts editor. 
 
