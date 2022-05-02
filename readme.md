@@ -7,13 +7,28 @@ Following the collapse of the housing market in the Great Recession, a small con
 
 Instead of flipping these properties, investors held onto them, making money from rental payments and fees and growing equity as the value of the properties recovered. They also created rental-backed securities, a new financial instrument that sold bond holders the promise of future rental income.
 
+Below, you'll find links to our reporting and resources and data that powered the investigation.
+
+*Note: This repo will be updated periodically with new data and resources.*
+
+## Read the series
+
 Read our three-day series beginning May 1, 2022, into how the growth of the single-family rental industry is affecting tenants, neighborhoods and communities in **Security for Sale** in one of our three partner publications:
 
  - [The News & Observer](http://www.newsobserver.com/securityforsale)
  - [The Charlotte Observer](http://www.charlotteobserver.com/securityforsale)
  - [The Herald Sun](http://www.heraldsun.com/securityforsale)
 
-*Note: This repo will be updated periodically with new data and resources.*
+### Complete coverage
+Main stories
+- [Security for Sale, Day 1: With piles of cash, big investors become NC’s top rental-home landlords](https://www.charlotteobserver.com/news/business/article260606172.html) // *Tyler Dukes, Payton Guion & Gordon Rago*
+- [Security for Sale, Day 2: Wall Street landlords are finely tuned to make profits. That can squeeze tenants.]( https://www.charlotteobserver.com/news/state/north-carolina/article260940817.html) // *Payton Guion, Tyler Dukes & Gordon Rago*
+
+Sidebars
+- [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // *Payton Guion & Gordon Rago*
+- [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // *Gordon Rago*
+- [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html) // *Gordon Rago*
+-   [Why is a Japanese soy sauce company buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // *Mary Helen Moore*
 
 ## How we did this story
 Tracking the single-family rental companies and their purchases is tricky.
