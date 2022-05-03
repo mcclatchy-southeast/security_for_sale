@@ -33,7 +33,7 @@ Sidebars
 ## How we did this story
 Tracking the single-family rental companies and their purchases is tricky.
 
-Although there are just a handful of national corporations buying on a large scale in Charlotte and Triangle, they use a myriad of subsidiaries and holding companies to conduct their business. There's also variation – misspellings, mixed punctuation and the link – in how these subsidiaries are recorded in property records managed by each of the state's 100 counties.
+Although there are just a handful of national corporations buying on a large scale in Charlotte and Triangle, they use a myriad of subsidiaries and holding companies to conduct their business. There's also variation – misspellings, mixed punctuation and the like – in how these subsidiaries are recorded in property records managed by each of the state's 100 counties.
 
 "This has been such an opaque issue for decades now that we have really, really bad data flowing around in the public sphere about how active these types of investment funds are," David Szakonyi, an assistant professor of political science at Georgetown University and co-founder of the Anti-Corruption Data Collective.
 
