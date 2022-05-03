@@ -28,7 +28,9 @@ Sidebars
 - [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // *Payton Guion & Gordon Rago*
 - [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // *Gordon Rago*
 - [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html) // *Gordon Rago*
--   [Why is a Japanese soy sauce company buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // *Mary Helen Moore*
+-   [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // *Mary Helen Moore* // *(CORRECTION: A previous version of the story misidentified this home purchaser as a soy sauce manufacturer with a similar name. Yamasa Co., Ltd., which is buying homes across North Carolina, is a Japanese conglomerate with a wide portfolio of businesses.*
+
+Read more at: https://www.newsobserver.com/news/state/north-carolina/article260821097.html#storylink=cpy)
 
 ## How we did this story
 Tracking the single-family rental companies and their purchases is tricky.
