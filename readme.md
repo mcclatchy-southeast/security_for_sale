@@ -25,6 +25,7 @@ Main stories
 - [Security for Sale, Day 3: As corporate landlords rise in Charlotte, officials are watching, not acting — for now.](https://www.charlotteobserver.com/news/state/north-carolina/article260606412.html) // May 3 //*Payton Guion, Tyler Dukes & Gordon Rago*
 
 Sidebars
+- [Are companies buying up your neighborhood’s houses? Search our NC map to find out.](https://www.newsobserver.com/news/state/north-carolina/article261064492.html) // May 4 // *David Newcomb & Tyler Dukes*
 - [5 things we learned investigating the rise of corporate landlords in North Carolina](https://www.newsobserver.com/news/state/north-carolina/article260976502.html) // May 4 // *Tyler Dukes & Payton Guion*
 - [Raleigh city leader wants investor home data, praises N&O series](https://www.newsobserver.com/news/local/counties/wake-county/article261036377.html) // May 4 //*Anna Johnson*
 - [We had a lot of questions for corporate landlords. Here’s what they had to say.](https://www.newsobserver.com/news/state/north-carolina/article260900072.html) // May 3 //*Payton Guion & Tyler Dukes*
