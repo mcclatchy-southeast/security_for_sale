@@ -10,7 +10,13 @@ Instead of flipping these properties, investors held onto them, making money fro
 
 Below, you'll find links to our reporting and resources and data that powered the investigation.
 
-*Note: This repo will be updated periodically with new data and resources.*
+## Changelog
+
+This repo will be updated periodically with new data and resources. We'll note any signficant changes below.
+
+*May 4, 2022: Added in site addresses for ~3,200 Cabarrus County properties missing from NC OneMap data, sourced [directly from Cabarrus County](https://gis-cabarrus.opendata.arcgis.com/search?tags=taxdata).*
+
+*April 30, 2022: Initial data upload*
 
 ## Read the series
 
