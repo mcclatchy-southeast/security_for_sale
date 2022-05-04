@@ -10,14 +10,6 @@ Instead of flipping these properties, investors held onto them, making money fro
 
 Below, you'll find links to our reporting and resources and data that powered the investigation.
 
-## Changelog
-
-This repo will be updated periodically with new data and resources. We'll note any signficant changes below.
-
-*May 4, 2022: Added in site addresses for ~3,200 Cabarrus County properties missing from NC OneMap data, sourced [directly from Cabarrus County](https://gis-cabarrus.opendata.arcgis.com/search?tags=taxdata).*
-
-*April 30, 2022: Initial data upload*
-
 ## Read the series
 
 Read our three-day series beginning May 1, 2022, into how the growth of the single-family rental industry is affecting tenants, neighborhoods and communities in **Security for Sale** in one of our three partner publications:
@@ -41,8 +33,6 @@ Sidebars
 - [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // May 2// *Mary Helen Moore* // *(CORRECTION: A previous version of the story misidentified this home purchaser as a soy sauce manufacturer with a similar name. Yamasa Co., Ltd., which is buying homes across North Carolina, is a Japanese conglomerate with a wide portfolio of businesses.*
 - [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // May 1 // *Payton Guion & Gordon Rago*
 - [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // May 1 //*Gordon Rago*
-
-Read more at: https://www.newsobserver.com/news/state/north-carolina/article260821097.html#storylink=cpy)
 
 ## How we did this story
 Tracking the single-family rental companies and their purchases is tricky.
@@ -98,6 +88,14 @@ Szakonyi, who reviewed the N&O and Observer’s analysis, called the analysis th
 The N&O and the Observer are making both the investor subsidiary list and the database of corporate investor-owned properties available publicly for all uses.
 
 *The Pulitzer Center contributed to this project by awarding The Charlotte Observer and The News & Observer [a data journalism grant](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants).*
+
+## Changelog
+
+This repo will be updated periodically with new data and resources. We'll note any signficant changes below.
+
+*May 4, 2022: Added in site addresses for ~3,200 Cabarrus County properties missing from NC OneMap data, sourced [directly from Cabarrus County](https://gis-cabarrus.opendata.arcgis.com/search?tags=taxdata).*
+
+*April 30, 2022: Initial data upload*
 
 ## Data
 The following files [can be downloaded](https://github.com/mcclatchy-southeast/security_for_sale/tree/main/data) from the `data` directory in this repo. File names are appended with a timestamp indicating when they were generated, in the format `YYYYMMDDHHMM`.
