@@ -22,18 +22,19 @@ Read our three-day series beginning May 1, 2022, into how the growth of the sing
 
 ### Complete coverage
 Main stories
-- [Security for Sale, Day 1: With piles of cash, big investors become NC’s top rental-home landlords](https://www.charlotteobserver.com/news/business/article260606172.html) // *Tyler Dukes, Payton Guion & Gordon Rago*
-- [Security for Sale, Day 2: Wall Street landlords are finely tuned to make profits. That can squeeze tenants.]( https://www.charlotteobserver.com/news/state/north-carolina/article260940817.html) // *Payton Guion, Tyler Dukes & Gordon Rago*
-- [Security for Sale, Day 3: As corporate landlords rise in Charlotte, officials are watching, not acting — for now.](https://www.charlotteobserver.com/news/state/north-carolina/article260606412.html) // *Payton Guion, Tyler Dukes & Gordon Rago*
+- [Security for Sale, Day 1: With piles of cash, big investors become NC’s top rental-home landlords](https://www.charlotteobserver.com/news/business/article260606172.html) // May 1 // *Tyler Dukes, Payton Guion & Gordon Rago*
+- [Security for Sale, Day 2: Wall Street landlords are finely tuned to make profits. That can squeeze tenants.]( https://www.charlotteobserver.com/news/state/north-carolina/article260940817.html) // May 2 // *Payton Guion, Tyler Dukes & Gordon Rago*
+- [Security for Sale, Day 3: As corporate landlords rise in Charlotte, officials are watching, not acting — for now.](https://www.charlotteobserver.com/news/state/north-carolina/article260606412.html) // May 3 //*Payton Guion, Tyler Dukes & Gordon Rago*
 
 Sidebars
-- [5 things we learned investigating the rise of corporate landlords in North Carolina](https://www.newsobserver.com/news/state/north-carolina/article260976502.html) // *Tyler Dukes & Payton Guion*
-- [We had a lot of questions for corporate landlords. Here’s what they had to say.](https://www.newsobserver.com/news/state/north-carolina/article260900072.html) // *Payton Guion & Tyler Dukes*
-- [HOAs limit corporate landlords in Charlotte. What about neighborhoods without them?](https://www.charlotteobserver.com/news/state/north-carolina/article260751287.html) // *Payton Guion*
-- [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // *Payton Guion & Gordon Rago*
-- [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // *Gordon Rago*
-- [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html) // *Gordon Rago*
-- [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // *Mary Helen Moore* // *(CORRECTION: A previous version of the story misidentified this home purchaser as a soy sauce manufacturer with a similar name. Yamasa Co., Ltd., which is buying homes across North Carolina, is a Japanese conglomerate with a wide portfolio of businesses.*
+- [5 things we learned investigating the rise of corporate landlords in North Carolina](https://www.newsobserver.com/news/state/north-carolina/article260976502.html) // May 4 // *Tyler Dukes & Payton Guion*
+- [Raleigh city leader wants investor home data, praises N&O series](https://www.newsobserver.com/news/local/counties/wake-county/article261036377.html) // May 4 //*Anna Johnson*
+- [We had a lot of questions for corporate landlords. Here’s what they had to say.](https://www.newsobserver.com/news/state/north-carolina/article260900072.html) // May 3 //*Payton Guion & Tyler Dukes*
+- [HOAs limit corporate landlords in Charlotte. What about neighborhoods without them?](https://www.charlotteobserver.com/news/state/north-carolina/article260751287.html) // May 3 //*Payton Guion*
+- [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html) // May 2 //*Gordon Rago*
+- [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // May 2// *Mary Helen Moore* // *(CORRECTION: A previous version of the story misidentified this home purchaser as a soy sauce manufacturer with a similar name. Yamasa Co., Ltd., which is buying homes across North Carolina, is a Japanese conglomerate with a wide portfolio of businesses.*
+- [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // May 1 // *Payton Guion & Gordon Rago*
+- [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // May 1 //*Gordon Rago*
 
 Read more at: https://www.newsobserver.com/news/state/north-carolina/article260821097.html#storylink=cpy)
 
