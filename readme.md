@@ -40,7 +40,7 @@ Tracking the single-family rental companies and their purchases is tricky.
 
 Although there are just a handful of national corporations buying on a large scale in Charlotte and Triangle, they use a myriad of subsidiaries and holding companies to conduct their business. There's also variation – misspellings, mixed punctuation and the like – in how these subsidiaries are recorded in property records managed by each of the state's 100 counties.
 
-"This has been such an opaque issue for decades now that we have really, really bad data flowing around in the public sphere about how active these types of investment funds are," David Szakonyi, an assistant professor of political science at Georgetown University and co-founder of the Anti-Corruption Data Collective.
+"This has been such an opaque issue for decades now that we have really, really bad data flowing around in the public sphere about how active these types of investment funds are," David Szakonyi, an assistant professor of political science at George Washington University and co-founder of the Anti-Corruption Data Collective.
 
 So in the winter of 2021, reporters at The News & Observer and The Charlotte Observer set about creating the most authoritative dataset possible of investment buyers across the state – particularly the single-family homes that have long been key to middle-class American wealth.
 
