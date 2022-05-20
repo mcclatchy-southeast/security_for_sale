@@ -1,5 +1,6 @@
 
 
+
 ![Security for Sale promo](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/images/promo_image.jpg)
 
 # Security for Sale
@@ -19,21 +20,31 @@ Read our three-day series beginning May 1, 2022, into how the growth of the sing
  - [The Herald Sun](http://www.heraldsun.com/securityforsale)
 
 ### Complete coverage
-Main stories
+**Main stories**
 - [Security for Sale, Day 1: With piles of cash, big investors become NC’s top rental-home landlords](https://www.charlotteobserver.com/news/business/article260606172.html) // May 1 // *Tyler Dukes, Payton Guion & Gordon Rago*
 - [Security for Sale, Day 2: Wall Street landlords are finely tuned to make profits. That can squeeze tenants.]( https://www.charlotteobserver.com/news/state/north-carolina/article260940817.html) // May 2 // *Payton Guion, Tyler Dukes & Gordon Rago*
 - [Security for Sale, Day 3: As corporate landlords rise in Charlotte, officials are watching, not acting — for now.](https://www.charlotteobserver.com/news/state/north-carolina/article260606412.html) // May 3 //*Payton Guion, Tyler Dukes & Gordon Rago*
 
-Sidebars
+**Sidebars**
 - [Are companies buying up your neighborhood’s houses? Search our NC map to find out.](https://www.newsobserver.com/news/state/north-carolina/article261064492.html) // May 4 // *David Newcomb & Tyler Dukes*
 - [5 things we learned investigating the rise of corporate landlords in North Carolina](https://www.newsobserver.com/news/state/north-carolina/article260976502.html) // May 4 // *Tyler Dukes & Payton Guion*
-- [Raleigh city leader wants investor home data, praises N&O series](https://www.newsobserver.com/news/local/counties/wake-county/article261036377.html) // May 4 //*Anna Johnson*
 - [We had a lot of questions for corporate landlords. Here’s what they had to say.](https://www.newsobserver.com/news/state/north-carolina/article260900072.html) // May 3 //*Payton Guion & Tyler Dukes*
+- [Video: Action NC canvasses Charlotte neighborhood](https://www.charlotteobserver.com/news/local/article260804637.html) // May 3 // *Melissa Rodriguez*
 - [HOAs limit corporate landlords in Charlotte. What about neighborhoods without them?](https://www.charlotteobserver.com/news/state/north-carolina/article260751287.html) // May 3 //*Payton Guion*
+- [Video: Rasheedah Harrison continues to battle with Progress Residential after moving out](https://www.charlotteobserver.com/news/state/article260806212.html) // May 3 // *Alex Slitz* 
 - [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html) // May 2 //*Gordon Rago*
-- [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // May 2// *Mary Helen Moore* // *(CORRECTION: A previous version of the story misidentified this home purchaser as a soy sauce manufacturer with a similar name. Yamasa Co., Ltd., which is buying homes across North Carolina, is a Japanese conglomerate with a wide portfolio of businesses.*
+- [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // May 2// *Mary Helen Moore*
 - [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // May 1 // *Payton Guion & Gordon Rago*
 - [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // May 1 //*Gordon Rago*
+- [Watch a decade of corporate landlord growth in NC](https://www.charlotteobserver.com/site-services/article260771937.html) // May 1 // *David Newcomb & Tyler Dukes*
+- [Video: Charlotte realtor talks about institutional investment properties](https://www.charlotteobserver.com/news/local/article260807487.html) / May 1 / *Khadejeh Nikouyeh*
+
+**Follow-ups**
+- [Biden housing plan includes first attempts to slow corporate landlords active in NC](https://www.charlotteobserver.com/news/politics-government/article261567462.html) // May 19 // *Payton Guion & Tyler Dukes*
+- [NC congresswoman seeks solutions on corporate landlords after Observer, N&O investigation](
+//www.charlotteobserver.com/news/state/north-carolina/article261378217.html) // May 12 // *Payton Guion*
+- [Hear from the journalists who reported on big investors buying up 40,000 NC homes](https://www.newsobserver.com/news/article261359252.html) // May 11 // *Staff*
+- [Raleigh city leader wants investor home data, praises N&O series](https://www.newsobserver.com/news/local/counties/wake-county/article261036377.html) // May 4 //*Anna Johnson*
 
 ## How we did this story
 Tracking the single-family rental companies and their purchases is tricky.
