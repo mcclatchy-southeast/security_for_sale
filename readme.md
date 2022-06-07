@@ -99,7 +99,7 @@ Szakonyi, who reviewed the N&O and Observer’s analysis, called the analysis th
 
 The N&O and the Observer are making both the investor subsidiary list and the database of corporate investor-owned properties available publicly for all uses.
 
-*The Pulitzer Center contributed to this project by awarding The Charlotte Observer and The News & Observer [a data journalism grant](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants).*
+*The Pulitzer Center contributed to this project by awarding The Charlotte Observer and The News & Observer [a machine learning journalism grant](https://pulitzercenter.org/journalism/initiatives/machine-learning-investigations).*
 
 ## Changelog
 
