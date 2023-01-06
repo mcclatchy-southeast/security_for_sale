@@ -49,6 +49,8 @@ Read our three-day series beginning May 1, 2022, into how the growth of the sing
 - [Investors grab homes with cash offers. Charlotte buyers can do the same — for a price.](https://www.charlotteobserver.com/news/business/article263407958.html) // July 15 // *Payton Guion*
 - [Corporate landlords use exclusionary language in rental listings, UNCC study finds
 ](https://www.charlotteobserver.com/news/local/article263280678.html) // July 11 // *Payton Guion*
+- [Mecklenburg County may spend $500K to address impacts from corporate landlords
+](https://www.charlotteobserver.com/news/local/article261634477.html) // May 23 // *Payton Guion*
 - [Biden housing plan includes first attempts to slow corporate landlords active in NC](https://www.charlotteobserver.com/news/politics-government/article261567462.html) // May 19 // *Payton Guion & Tyler Dukes*
 - [NC congresswoman seeks solutions on corporate landlords after Observer, N&O investigation](
 //www.charlotteobserver.com/news/state/north-carolina/article261378217.html) // May 12 // *Payton Guion*
