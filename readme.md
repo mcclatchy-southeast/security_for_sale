@@ -1,6 +1,4 @@
 
-
-
 ![Security for Sale promo](https://github.com/mcclatchy-southeast/security_for_sale/blob/main/images/promo_image.jpg)
 
 # Security for Sale
@@ -10,6 +8,8 @@ Following the collapse of the housing market in the Great Recession, a small con
 Instead of flipping these properties, investors held onto them, making money from rental payments and fees and growing equity as the value of the properties recovered. They also created rental-backed securities, a new financial instrument that sold bond holders the promise of future rental income.
 
 Below, you'll find links to our reporting and resources and data that powered the investigation.
+
+> NOTE: If you're a journalist or researcher interested in investigating corporate ownership your local single-family home market, [check out our toolkit](https://mcclatchy-southeast.github.io/sfr-toolkit/) for code and tutorials to replicate our work in your community. And if you use our work, [please reach out to let us know](mailto:mtdukes@newsobserver.com)!
 
 ## Read the series
 
@@ -21,41 +21,42 @@ Read our three-day series beginning May 1, 2022, into how the growth of the sing
 
 ### Complete coverage
 **Main stories**
-- [Security for Sale, Part 1: With piles of cash, big investors become NC’s top rental-home landlords](https://www.charlotteobserver.com/news/business/article260606172.html) // May 1 // *Tyler Dukes, Payton Guion & Gordon Rago*
-- [Security for Sale, Part 2: Wall Street landlords are finely tuned to make profits. That can squeeze tenants.]( https://www.charlotteobserver.com/news/state/north-carolina/article260940817.html) // May 2 // *Payton Guion, Tyler Dukes & Gordon Rago*
-- [Security for Sale, Part 3: As corporate landlords rise in Charlotte, officials are watching, not acting — for now.](https://www.charlotteobserver.com/news/state/north-carolina/article260606412.html) // May 3 //*Payton Guion, Tyler Dukes & Gordon Rago*
+- [Security for Sale, Part 1: With piles of cash, big investors become NC’s top rental-home landlords](https://www.charlotteobserver.com/news/business/article260606172.html)<br/>May 1, 2022 // *Tyler Dukes, Payton Guion & Gordon Rago*
+- [Security for Sale, Part 2: Wall Street landlords are finely tuned to make profits. That can squeeze tenants.]( https://www.charlotteobserver.com/news/state/north-carolina/article260940817.html)<br/>May 2, 2022 // *Payton Guion, Tyler Dukes & Gordon Rago*
+- [Security for Sale, Part 3: As corporate landlords rise in Charlotte, officials are watching, not acting — for now.](https://www.charlotteobserver.com/news/state/north-carolina/article260606412.html) <br/>May 3, 2022 //*Payton Guion, Tyler Dukes & Gordon Rago*
 
 **Sidebars**
-- [Methodology: How we made the best count of NC corporate-owned rental homes](https://www.charlotteobserver.com/news/state/north-carolina/article260732907.html)
-- [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html) // May 1 // *Payton Guion & Gordon Rago*
-- [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html) // May 2 //*Gordon Rago*
-- [HOAs limit corporate landlords in Charlotte. What about neighborhoods without them?](https://www.charlotteobserver.com/news/state/north-carolina/article260751287.html) // May 3 //*Payton Guion*
-- [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html) // May 1 //*Gordon Rago*
-- [We had a lot of questions for corporate landlords. Here’s what they had to say.](https://www.newsobserver.com/news/state/north-carolina/article260900072.html) // May 3 //*Payton Guion & Tyler Dukes*
-- [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html) // May 2// *Mary Helen Moore*
-- [5 things we learned investigating the rise of corporate landlords in North Carolina](https://www.newsobserver.com/news/state/north-carolina/article260976502.html) // May 4 // *Tyler Dukes & Payton Guion*
+- [Methodology: How we made the best count of NC corporate-owned rental homes](https://www.charlotteobserver.com/news/state/north-carolina/article260732907.html)<br/>May 1, 2022 // *Tyler Dukes*
+- [After foreclosures, NC neighborhood is transformed again, by corporate landlords](https://www.charlotteobserver.com/news/state/north-carolina/article260728587.html)<br/>May 1, 2022 // *Payton Guion & Gordon Rago*
+- [Here are some important things to know about your tenant rights in North Carolina](https://www.charlotteobserver.com/news/state/north-carolina/article260743117.html)<br/>May 2, 2022 // *Gordon Rago*
+- [HOAs limit corporate landlords in Charlotte. What about neighborhoods without them?](https://www.charlotteobserver.com/news/state/north-carolina/article260751287.html)<br/>May 3, 2022 // *Payton Guion*
+- [How to tell if a corporate investor owns the North Carolina rental house you like](https://www.charlotteobserver.com/news/state/north-carolina/article260596472.html)<br/>May 1, 2022 // *Gordon Rago*
+- [We had a lot of questions for corporate landlords. Here’s what they had to say.](https://www.newsobserver.com/news/state/north-carolina/article260900072.html)<br/>May 3, 2022 // *Payton Guion & Tyler Dukes*
+- [Why is a Japanese conglomerate buying up Raleigh-area homes to rent them out?](https://www.newsobserver.com/news/state/north-carolina/article260821097.html)<br/>May 2, 2022 // *Mary Helen Moore*
+- [5 things we learned investigating the rise of corporate landlords in North Carolina](https://www.newsobserver.com/news/state/north-carolina/article260976502.html)<br/>May 4, 2022 // *Tyler Dukes & Payton Guion*
 
 **Multimedia**
-- [Map: Are companies buying up your neighborhood’s houses? Search your zip code to find out.](https://www.newsobserver.com/news/state/north-carolina/article261064492.html) // May 4 // *David Newcomb & Tyler Dukes*
-- [Graphic: Watch a decade of corporate landlord growth in NC](https://www.charlotteobserver.com/site-services/article260771937.html) // May 1 // *David Newcomb & Tyler Dukes*
-- [Video: Rasheedah Harrison continues to battle with Progress Residential after moving out](https://www.charlotteobserver.com/news/state/article260806212.html) // May 3 // *Alex Slitz* 
-- [Video: Action NC canvasses Charlotte neighborhood](https://www.charlotteobserver.com/news/local/article260804637.html) // May 3 // *Melissa Rodriguez*
-- [Video: Charlotte realtor talks about institutional investment properties](https://www.charlotteobserver.com/news/local/article260807487.html) // May 1 // *Khadejeh Nikouyeh*
+- [Map: Are companies buying up your neighborhood’s houses? Search your zip code to find out.](https://www.newsobserver.com/news/state/north-carolina/article261064492.html)<br/>May 4, 2022 // *David Newcomb & Tyler Dukes*
+- [Graphic: Watch a decade of corporate landlord growth in NC](https://www.charlotteobserver.com/site-services/article260771937.html)<br/>May 1, 2022 // *David Newcomb & Tyler Dukes*
+- [Video: Rasheedah Harrison continues to battle with Progress Residential after moving out](https://www.charlotteobserver.com/news/state/article260806212.html) <br/>May 3, 2022 // *Alex Slitz* 
+- [Video: Action NC canvasses Charlotte neighborhood](https://www.charlotteobserver.com/news/local/article260804637.html)<br/>May 3, 2022 // *Melissa Rodriguez*
+- [Video: Charlotte realtor talks about institutional investment properties](https://www.charlotteobserver.com/news/local/article260807487.html)<br/>May 1, 2022 // *Khadejeh Nikouyeh*
 
 **Follow-ups**
-- [Watchdog group asks NC treasurer to help curb corporate landlord ‘abuse’](https://www.newsobserver.com/news/state/north-carolina/article268767412.html) // Nov. 29 // *Tyler Dukes & Payton Guion*
-- [Mecklenburg officials push for federal review of corporate landlords’ impact](https://www.charlotteobserver.com/news/local/article264692029.html) // Aug. 22 // *Payton Guion*
-- [Corporate landlords used ‘abusive tactics’ to evict tenants despite pandemic eviction ban](https://www.newsobserver.com/news/state/north-carolina/article263969396.html) // Aug. 1 // *Payton Guion & Tyler Dukes*
-- [Investors grab homes with cash offers. Charlotte buyers can do the same — for a price.](https://www.charlotteobserver.com/news/business/article263407958.html) // July 15 // *Payton Guion*
+- [Bill would limit corporate landlord homes in Charlotte, the Triangle and more of NC ](https://www.newsobserver.com/news/politics-government/article272559767.html)<br />Feb. 23, 2023 // *Tyler Dukes*
+- [Watchdog group asks NC treasurer to help curb corporate landlord ‘abuse’](https://www.newsobserver.com/news/state/north-carolina/article268767412.html)<br/>Nov. 29, 2022 // *Tyler Dukes & Payton Guion*
+- [Mecklenburg officials push for federal review of corporate landlords’ impact](https://www.charlotteobserver.com/news/local/article264692029.html)<br/>Aug. 22, 2022 // *Payton Guion*
+- [Corporate landlords used ‘abusive tactics’ to evict tenants despite pandemic eviction ban](https://www.newsobserver.com/news/state/north-carolina/article263969396.html)<br/>Aug. 1, 2022 // *Payton Guion & Tyler Dukes*
+- [Investors grab homes with cash offers. Charlotte buyers can do the same — for a price.](https://www.charlotteobserver.com/news/business/article263407958.html)<br/>July 15, 2022 // *Payton Guion*
 - [Corporate landlords use exclusionary language in rental listings, UNCC study finds
-](https://www.charlotteobserver.com/news/local/article263280678.html) // July 11 // *Payton Guion*
+](https://www.charlotteobserver.com/news/local/article263280678.html)<br/>July 11, 2022 // *Payton Guion*
 - [Mecklenburg County may spend $500K to address impacts from corporate landlords
-](https://www.charlotteobserver.com/news/local/article261634477.html) // May 23 // *Payton Guion*
-- [Biden housing plan includes first attempts to slow corporate landlords active in NC](https://www.charlotteobserver.com/news/politics-government/article261567462.html) // May 19 // *Payton Guion & Tyler Dukes*
+](https://www.charlotteobserver.com/news/local/article261634477.html)<br/>May 23, 2022 // *Payton Guion*
+- [Biden housing plan includes first attempts to slow corporate landlords active in NC](https://www.charlotteobserver.com/news/politics-government/article261567462.html)<br/>May 19, 2022 // *Payton Guion & Tyler Dukes*
 - [NC congresswoman seeks solutions on corporate landlords after Observer, N&O investigation](
-//www.charlotteobserver.com/news/state/north-carolina/article261378217.html) // May 12 // *Payton Guion*
-- [Hear from the journalists who reported on big investors buying up 40,000 NC homes](https://www.newsobserver.com/news/article261359252.html) // May 11 // *Staff*
-- [Raleigh city leader wants investor home data, praises N&O series](https://www.newsobserver.com/news/local/counties/wake-county/article261036377.html) // May 4 // *Anna Johnson*
+//www.charlotteobserver.com/news/state/north-carolina/article261378217.html)<br/>May 12, 2022 // *Payton Guion*
+- [Hear from the journalists who reported on big investors buying up 40,000 NC homes](https://www.newsobserver.com/news/article261359252.html)<br/>May 11, 2022 // *Staff*
+- [Raleigh city leader wants investor home data, praises N&O series](https://www.newsobserver.com/news/local/counties/wake-county/article261036377.html)<br/>May 4, 2022 // *Anna Johnson*
 
 
 ## How we did this story
@@ -194,7 +195,7 @@ Security for Sale was reported and written by investigative reporters Payton Gui
 
 Art direction and animation by Sohail Al-Jamea | Illustrations by Rachel Handley | Design, development & interactive maps by David Newcomb
 
-Photos, drone footage and videos by McClatchy visual journalists Jeff Siner, Khadejeh Nikouye, Melissa Rodriguez, Travis Long, Julia Wall, Alex Slitz, Loumay Alesali, The' Pham and Scott Sharpe.
+Photos, drone footage and videos by McClatchy visual journalists Jeff Siner, Khadejeh Nikouyeh, Melissa Rodriguez, Travis Long, Julia Wall, Alex Slitz, Loumay Alesali, The' Pham and Scott Sharpe.
 
 Edited by Cathy Clabby, McClatchy Southeast investigations editor, and Adam Bell, Observer business and arts editor. 
 
